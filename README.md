@@ -1,9 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ladipo Ipadeola
-=======================================================================================================================================
+**Data Scientist & Machine Learning Engineer**
 
-Data Scientist and Machine Learning Engineer
-------------------------------------
+I develop advanced algorithms to revolutionise business operations. My expertise lies in designing, researching, and deploying ML solutions that solve complex real-life problems.
 
-Passionate about ML and Data Science. Specialize in designing, developing, deploying, and researching machine learning solutions for real-life problems. Revolutionizing Business Operations: Machine Learning Engineer Develops Advanced Algorithms
+### Core Competencies
+* **Machine Learning:** Model Development, Hyperparameter Tuning, Deployment
+* **Data Science:** Data Cleaning, Visualisation, Statistical Analysis
+* **Tools:** Python, SQL, Docker, Git
 
-*   ✉️  You can contact me at [ipadeolaoladipo@outlook.com](mailto:ipadeolaoladipo@outlook.com)
+---
+
+[Email Me](mailto:ipadeolaoladipo@outlook.com)
