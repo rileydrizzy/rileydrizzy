@@ -5,7 +5,7 @@ I develop advanced algorithms to revolutionise business operations. My expertise
 ### Core Competencies
 * **Machine Learning:** Model Development, Hyperparameter Tuning, Deployment
 * **Data Science:** Data Cleaning, Visualisation, Statistical Analysis
-* **Tools:** C, C++ Python, SQL, Docker, Git
+* **Tools:** C, Rust, Python, SQL, Docker, Git
 
 ---
 
