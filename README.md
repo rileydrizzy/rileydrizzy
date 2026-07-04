@@ -1,12 +1,15 @@
-**Data Scientist & Machine Learning Engineer**
+**Data Scientist & AI Engineer**
 
-I develop advanced algorithms to revolutionise business operations. My expertise lies in designing, researching, and deploying ML solutions that solve complex real-life problems.
+I build practical machine learning and data science solutions that turn complex problems into measurable business value. 
+My work focuses on model development, experimentation, deployment, and data-driven decision-making.
 
 ### Core Competencies
+
 * **Machine Learning:** Model Development, Hyperparameter Tuning, Deployment
 * **Data Science:** Data Cleaning, Visualisation, Statistical Analysis
-* **Tools:** C, Rust, Python, SQL, Docker, Git
+* **Tools:** Python, SQL, C, Rust, Docker, Git
 
 ---
 
-[Email Me](mailto:ipadeolaoladipo@outlook.com)
+[Portfolio](https://ladipo.dev) • [Email Me](mailto:ipadeolaoladipo@outlook.com)
+
